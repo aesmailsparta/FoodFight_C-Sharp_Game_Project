@@ -25,11 +25,19 @@ C#
 
 ## Code Highlights
 
-###### Boss AI
+#### Boss AI
+The following file has the script where you can see how the simple descision making AI for the Boss works, it uses a timer for the time between decisions, and asynchronous routines to carry out an action once decided.
 
-###### Destructible Objects
+[Level Boss AI Example](https://github.com/aesmailsparta/FoodFight_C-Sharp_Game_Project/blob/master/README.md "Boss Artificial Inteligence")  
+
+#### Destructible Objects
+Here is a link to the script which contains all of the functionality for creating a destructible object, the *DestructibleObjectHealth* script attached some logic for destroying an object, and the *FractalDestroy* script allows an object to break up into small peices after an object has been destroyed.
+
+[Destructible Object Example](https://github.com/aesmailsparta/FoodFight_C-Sharp_Game_Project/blob/master/README.md "Destructible Object Health Script") 
+
+[Destructible Object - Fractal Destroy Example](https://github.com/aesmailsparta/FoodFight_C-Sharp_Game_Project/blob/master/README.md "Fractal Destroy Script") 
 
 ## ScreenShots
 
-// Statistics
+// Statistics  
 // Game Start Screen
